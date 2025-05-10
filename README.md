@@ -103,8 +103,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/dd565d03-5ff6-4326-be2c-1ae9c353f277)
 
 
-## RESULT:
-Thus we have successfully implemented the auto regression function using python.
+
 
 ### RESULT:
 Thus we have successfully implemented the auto regression function using python.
